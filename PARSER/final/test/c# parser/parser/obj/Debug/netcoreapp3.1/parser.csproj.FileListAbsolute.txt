@@ -1,0 +1,15 @@
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.exe
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.deps.json
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.runtimeconfig.json
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.runtimeconfig.dev.json
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.dll
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\parser.pdb
+C:\Users\kv4sn\Desktop\parser\parser\parser\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.csproj.CoreCompileInputs.cache
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.AssemblyInfoInputs.cache
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.AssemblyInfo.cs
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.csproj.CopyComplete
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.dll
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.pdb
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.genruntimeconfig.cache
+C:\Users\kv4sn\Desktop\parser\parser\parser\obj\Debug\netcoreapp3.1\parser.csprojAssemblyReference.cache
