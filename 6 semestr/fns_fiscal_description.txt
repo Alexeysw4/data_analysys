@@ -1,0 +1,16 @@
+1. receiptCode - Код чека 
+2. fiscalDocumentNumber - Номер чека 
+3. dateTime - Дата и время создания чека 
+4. shiftNumber - Номер смены 
+5. requestNumber - Номер запроса // номер чека за смену
+6. operationType - // признак расчета
+7. totalSum - Итоговая сумма чека 
+8. items.name - Наименование товара
+9. items.price - Цена товара
+10. items.quantity - Количество товара
+11. items.sum - Сумма по товару
+12. items.ndsNo - Флаг НДС 
+13. cashTotalSum - сумма наличными
+14. ecashTotalSum - сумма картой // безналичными
+15. taxationType - // система налогообложения
+16. ndsNo - Флаг НДС// сумма расчета по чеку без НДС
